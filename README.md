@@ -2,7 +2,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siang-chang&theme=vue)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siang-chang&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siang-chang&theme=vue&exclude=Swift)
 
 <!--
 **siang-chang/siang-chang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
