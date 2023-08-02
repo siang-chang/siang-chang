@@ -1,8 +1,8 @@
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siang-chang&theme=onedark"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siang-chang&theme=onedark&exclude=Swift"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siang-chang&theme=onedark&exclude=Swift"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siang-chang&theme=github"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siang-chang&theme=github"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=siang-chang&theme=github"/>
 <p>
 
 <!--
