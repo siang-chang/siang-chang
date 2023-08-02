@@ -1,3 +1,6 @@
+I'm a Front-End Developer and Data Scientist with a master's degree in Taiwan. Looking forward to applying my skills and experience to bring value to enterprises and users.
+
+My research focuses on applications of computer vision and time series machine learning. I have participated in several artificial intelligence competitions organized by ITRI and received above average grades.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siang-chang&theme=github"/>
