@@ -1,8 +1,9 @@
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siang-chang&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siang-chang&theme=onedark&exclude=Swift)　
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siang-chang&theme=onedark&exclude=Swift)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siang-chang&theme=onedark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siang-chang&theme=onedark&exclude=Swift"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siang-chang&theme=onedark&exclude=Swift"/>
+<p>
 
 <!--
 https://github.com/vn7n24fzkq/github-profile-summary-cards-example/tree/master/profile-summary-card-output#algolia
