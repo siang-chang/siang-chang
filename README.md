@@ -2,6 +2,10 @@ I'm a Front-End Developer and Data Scientist with a master's degree in Taiwan. L
 
 My research focuses on applications of computer vision and time series machine learning. I have participated in several artificial intelligence competitions organized by ITRI and received above average grades.
 
+- 4 years of Python development experience, specializing in image and time-series machine learning.
+- 2 years of AI competition experience, capable of handling diverse structured and unstructured data, and adept at selecting appropriate algorithms or pre-trained models.
+- 2 years of professional experience, familiar with collaborative teamwork within development teams.
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siang-chang&theme=github"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siang-chang&theme=github"/>
