@@ -1,10 +1,23 @@
-I'm a Data Scientist and Front-End Developer with a master's degree in Taiwan. Looking forward to applying my skills and experience to bring value to enterprises and users.
+I am a Data Scientist with full-stack mindset, currently working in Insurance & Financial industry. I specialize in bridging the gap between experimental modeling and production deployment using MLOps best practices.
 
-My research focuses on applications of computer vision and time series machine learning. I have participated in several artificial intelligence competitions organized by ITRI and received above average grades.
+### Languages and Tools
 
-- 4 years of Python development experience, specializing in image and time-series machine learning.
-- 2 years of AI competition experience, capable of handling diverse structured and unstructured data, and adept at selecting appropriate algorithms or pre-trained models.
-- 2 years of professional experience, familiar with collaborative teamwork within development teams.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Machine Learning & Big Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-F25022?style=for-the-badge&logo=apachespark&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**MLOps & DevOps**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siang-chang&theme=github"/>
