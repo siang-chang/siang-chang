@@ -20,6 +20,8 @@ I am a Data Scientist with full-stack mindset, currently working in Insurance & 
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
+### Profile Summary
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siang-chang&theme=github"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siang-chang&theme=github"/>
